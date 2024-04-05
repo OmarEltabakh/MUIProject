@@ -1,0 +1,16 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+
+
+ * {
+     font-family: 'Roboto', sans-serif 
+ }
+
+ .borderMe{
+    border: solid red 5px;
+ }
+
+ .closePaper{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+ }
